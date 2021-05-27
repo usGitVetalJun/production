@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: dimgray;
+}
+
+div {
+    width: 500px;
+    height: 500px;
+}
+
+.color-div {
+    background-color: coral;
+}
+
+.color2-div {
+    float: right;
+    background-color: darkseagreen;
+}
+
+.color-div {
+    float: left;
+}
+
+.color-div--jun {
+    float: left;
+    width: 150px;
+    height: 150px;
+    background-color: springgreen;
+}
+
+.container {
+    width: 100%;
+}
+
+a {
+    text-decoration: none;
+    background-color: aqua;
+}
